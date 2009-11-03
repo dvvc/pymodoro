@@ -11,3 +11,4 @@ Usage:
   creates a taskbar icon that is updated based on pomodoro duration. It also has
   a context menu that controls the lifecycle of the application
 
+  python ./main.py
