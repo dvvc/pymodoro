@@ -1,0 +1,13 @@
+Pomodoro time management application
+David Villegas
+
+Python time management application that uses the Pomodoro technique
+
+Requirements:
+  - wxPython
+
+Usage:
+  It's still under heavy development... by now it opens an invisible Frame and
+  creates a taskbar icon that is updated based on pomodoro duration. It also has
+  a context menu that controls the lifecycle of the application
+
