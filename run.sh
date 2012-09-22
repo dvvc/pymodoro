@@ -1,4 +1,4 @@
 #!/bin/sh
 
 
-python pymodoro/main.py
+python pymodoro/pymodoro.py
